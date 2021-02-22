@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/antlr/antlr4 v0.0.0-20200801005519-2ba38605b949
 	github.com/bmatcuk/doublestar v1.3.2
-	github.com/golang/mock v1.4.3
+	github.com/golang/mock v1.5.0
 	github.com/google/uuid v1.1.1
 	github.com/imkira/go-observer v1.0.3
 	github.com/kr/pretty v0.2.1 // indirect
